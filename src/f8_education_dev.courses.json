@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "651c0acb7efcbf898386d6c2"
+  },
+  "name": "NodeJs & Express",
+  "description": "Xây dựng web trong thực tế với NodeJs & Express với cách chia sẽ chi tiết, tận tâm, dễ hiểu và chất giọng giàu sức sống của người chia sẽ",
+  "image": "https://files.fullstack.edu.vn/f8-prod/courses/6.png",
+  "slug": "nodejs",
+  "price": "100",
+  "teacher": "Sơn Đặng",
+  "hourse": "1000",
+  "quantity_video": "50"
+},
+{
+  "_id": {
+    "$oid": "655a25387add49ae8c31563f"
+  },
+  "name": "Responsive",
+  "description": "Bạn muốn trang web của mình trông hoàn hảo trên mọi thiết bị từ điện thoại thông minh đến máy tính để bàn, nhưng không biết bắt đầu từ đâu? Khóa học Responsive Web Design chính là chìa khóa giúp bạn thực hiện điều này một cách mượt mà và chuyên nghiệp.",
+  "image": "https://files.fullstack.edu.vn/f8-prod/courses/3.png",
+  "slug": "responsive",
+  "price": "90",
+  "teacher": "Sơn Đặng",
+  "hourse": "800",
+  "quantity_video": "45"
+},
+{
+  "_id": {
+    "$oid": "655a26267add49ae8c315640"
+  },
+  "name": "Javascript",
+  "description": "Bạn muốn trở thành một nhà phát triển web đỉnh cao và xây dựng những ứng dụng web động, mạnh mẽ? Khám phá sức mạnh của JavaScript thông qua khóa học chuyên sâu này, nơi bạn sẽ học cách sử dụng ngôn ngữ lập trình phía client một cách linh hoạt và hiệu quả.",
+  "image": "https://files.fullstack.edu.vn/f8-prod/courses/1.png",
+  "slug": "javascript",
+  "price": "240",
+  "teacher": "Đỗ Hoàng Tùng",
+  "hourse": "1350",
+  "quantity_video": "83"
+},
+{
+  "_id": {
+    "$oid": "655a26a37add49ae8c315641"
+  },
+  "name": "React JS",
+  "description": "Bạn muốn thành thạo trong việc xây dựng ứng dụng web hiện đại với trải nghiệm người dùng tuyệt vời? Hãy tham gia khóa học ReactJS của chúng tôi, nơi bạn sẽ khám phá sức mạnh của thư viện JavaScript này và học cách xây dựng các ứng dụng web linh hoạt và dễ bảo trì.",
+  "image": "https://files.fullstack.edu.vn/f8-prod/courses/13/13.png",
+  "slug": "reactjs",
+  "price": "150",
+  "teacher": "Hỏi Dân IT & Erick",
+  "hourse": "1150",
+  "quantity_video": "75"
+}]

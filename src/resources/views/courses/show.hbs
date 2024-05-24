@@ -1,0 +1,28 @@
+<section class="show">
+    <nav aria-label="breadcrumb">
+        <div class="container">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="http://localhost:3000/">Trang chủ</a></li>
+                <li class="breadcrumb-item active" aria-current="page">{{course.name}}</li>
+            </ol>
+
+        </div>
+    </nav>
+    <div class="container">
+        
+        <div class="course-content">
+            <div class="left">
+                <img src="{{course.image}}" alt="">
+            </div>
+            <div class="right">
+                <div class="text">Mô tả khóa học:</div>
+                <p class="course-description"><span>{{course.description}}</span></p>
+                <div class="course-teacher">Giảng viên: <span>{{course.teacher}}</span></div>
+                <div class="course-hourse">Số giờ: <span>{{course.hourse}}</span></div>
+                <div class="course-quantity-video">Số lượng video: <span>{{course.quantity_video}}</span></div>
+                <div class="course-price">Giá: <span>{{course.price}}VNĐ</span></div>
+                <button class="btn-mua">Mua khóa học</button>
+            </div>
+        </div>
+    </div>
+</section>
